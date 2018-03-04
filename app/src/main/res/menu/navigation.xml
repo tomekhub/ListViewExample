@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_transport"
+        android:icon="@drawable/transport24dp"
+        android:title="@string/title_transport" />
+
+    <item
+        android:id="@+id/navigation_restaurants"
+        android:icon="@drawable/restaurants24dp"
+        android:title="@string/title_restaurants" />
+
+    <item
+        android:id="@+id/navigation_clubs"
+        android:icon="@drawable/clubs24dp"
+        android:title="@string/title_clubs" />
+
+</menu>
